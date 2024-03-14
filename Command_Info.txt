@@ -1,0 +1,5 @@
+"npm create vite@latest ." => create admin panel for ecommerce website
+npm run dev
+
+MongoDB Atlas
+https://cloud.mongodb.com/v2#/org/65ce16104dc8dc7c5381b74e/projects
